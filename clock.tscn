@@ -17,6 +17,7 @@ fill_to = Vector2(1, 0.5)
 [node name="clock" type="Node2D"]
 position = Vector2(272, 184)
 script = ExtResource("1_apxbs")
+time_scale = 200.0
 
 [node name="face" type="Sprite2D" parent="."]
 position = Vector2(3.05176e-05, 0)
